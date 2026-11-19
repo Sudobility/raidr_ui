@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/raidr_ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shared presentational UI for the raidr catalog console (raidr_app + raidr_mcp_app)",
   "type": "module",
   "main": "dist/index.js",
@@ -25,7 +25,7 @@
     "dev": "npm run build:watch"
   },
   "peerDependencies": {
-    "@sudobility/components": "^5.3.75",
+    "@sudobility/components": "^5.3.76",
     "@sudobility/design": "^1.1.72",
     "@sudobility/raidr_lib": "^0.1.37",
     "@sudobility/raidr_types": "^0.1.24",
@@ -38,7 +38,7 @@
     "@sudobility/types": "^1.11.2"
   },
   "devDependencies": {
-    "@sudobility/components": "^5.3.75",
+    "@sudobility/components": "^5.3.76",
     "@sudobility/design": "^1.1.72",
     "@sudobility/raidr_lib": "^0.1.37",
     "@sudobility/raidr_types": "^0.1.24",
